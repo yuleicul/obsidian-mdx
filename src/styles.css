@@ -1,0 +1,12 @@
+@import '@code-hike/mdx/styles';
+
+.yuleicul-obsidian-mdx {
+  max-width: var(--file-line-width);
+  margin-left: auto;
+  margin-right: auto;
+  overflow-wrap: break-word;
+}
+
+.yuleicul-obsidian-mdx code {
+  font-family: var(--font-monospace);
+}
