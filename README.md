@@ -10,7 +10,7 @@ Preview [MDX](https://github.com/mdx-js/mdx/) in Obsidian, with support for [Cod
 2. Press `ctrl/cmd + p` to open the Command Palette.
 3. Type `mdx: preview` in the Command Palette and press `Enter`.
 
-![code-hike-example](https://github.com/yuleicul/obsidian-mdx/assets/27288153/0cb7e3fd-9953-42d3-b2fa-ad5536a81955)
+![code-hike-example](https://github.com/yuleicul/obsidian-mdx/assets/27288153/a28bea0c-610a-4282-ad89-89fccc504f8a)
 
 ### Support for Codehike
 
