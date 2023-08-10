@@ -12,12 +12,10 @@ Preview [MDX](https://github.com/mdx-js/mdx/) in Obsidian, with support for [Cod
 
 ![code-hike-example](https://github.com/yuleicul/obsidian-mdx/assets/27288153/0cb7e3fd-9953-42d3-b2fa-ad5536a81955)
 
-
 ### Support for Codehike
 
 This plugin also provides added support for Code Hike.
 If you want to try it out, you can copy [this example](https://github.com/code-hike/codehike/blob/next/examples/vite/src/hello.mdx) to Obsidian.
-
 
 ## Contributing
 
