@@ -1,12 +1,12 @@
 import { Editor, MarkdownView, Plugin } from 'obsidian'
 import { MDXPreviewState, MDX_PREVIEW, mdxPreview } from './mdxPreview'
 
-export default class ObsidianKetcher extends Plugin {
+export default class ObsidianMDX extends Plugin {
   async onload() {
     this.registerView(MDX_PREVIEW, (leaf) => new mdxPreview(leaf))
 
     this.addCommand({
-      id: 'mdx-preview',
+      id: 'preview',
       name: 'Preview',
       editorCheckCallback: (
         checking: boolean,

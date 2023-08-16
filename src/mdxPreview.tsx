@@ -1,4 +1,4 @@
-import { ItemView, TextFileView, ViewStateResult } from 'obsidian'
+import { ItemView, ViewStateResult } from 'obsidian'
 import React from 'react'
 import * as runtime from 'react/jsx-runtime'
 // @ts-ignore
