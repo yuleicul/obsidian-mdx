@@ -2,6 +2,10 @@
 
 Preview [MDX](https://github.com/mdx-js/mdx/) in Obsidian, with support for [Code Hike](https://github.com/code-hike/codehike).
 
+## Installation
+
+https://obsidian.md/plugins?search=yulei%20chen
+
 ## Getting Started
 
 ### Usage
